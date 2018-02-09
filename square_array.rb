@@ -12,5 +12,3 @@ def square_array(array)
  end
 
 end
-
-return array_new
