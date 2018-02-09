@@ -5,10 +5,11 @@ def square_array(array)
 
     array_new = array ** 2
 
+    return array_new
+
 
  end
 
-return array_new
 
 
 end
