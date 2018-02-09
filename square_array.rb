@@ -1,5 +1,4 @@
 
-array = array_new
 
 
 def square_array(array)
@@ -10,11 +9,8 @@ def square_array(array)
 
     array = array_new
 
-
-
  end
 
-return   array_new
-
-
 end
+
+return array_new
