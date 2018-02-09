@@ -3,11 +3,11 @@
 
 def square_array(array)
 
+  array_new = []
+
   array.each do  |array|
+    array_new = array ** 2
 
-    array = array ** 2
-
-    array = array_new
 
  end
 
