@@ -1,4 +1,7 @@
 
+array = array_new
+
+
 def square_array(array)
 
   array.each do  |array|
@@ -11,6 +14,5 @@ def square_array(array)
 
  end
 
-return array_new
 
 end
