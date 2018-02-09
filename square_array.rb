@@ -11,4 +11,5 @@ def square_array(array)
 
  end
 
+return array_new
 end
